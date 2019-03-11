@@ -25,7 +25,7 @@ header{
 
 .navegacion{
   width: 1000px;
-  margin: 50px auto;
+  margin: 10px auto;
   background-color: rgba(0, 0, 0, 0.7);
   color:#000;
 }
@@ -81,7 +81,7 @@ header{
 
  p.Titulo {
    font-family: "Indie Flower", cursive;
-   font-size: 800%;
+   font-size: 1000%;
    text-align: center;
    color:
  }
