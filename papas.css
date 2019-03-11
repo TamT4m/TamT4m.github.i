@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css?family=Indie+Flower");
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 @import url('https://fonts.googleapis.com/css?family=Monoton');
@@ -24,8 +25,8 @@ header{
 
 .navegacion{
   width: 1000px;
-  margin: 10px auto;
-  background-color: rgba(0, 0, 0, 0.5);
+  margin: 50px auto;
+  background-color: rgba(0, 0, 0, 0.7);
   color:#000;
 }
 
@@ -80,7 +81,7 @@ header{
 
  p.Titulo {
    font-family: "Indie Flower", cursive;
-   font-size: 500%;
+   font-size: 800%;
    text-align: center;
    color:
  }
