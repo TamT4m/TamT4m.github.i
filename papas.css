@@ -86,6 +86,11 @@ header{
    color:
  }
 
+p.Titulo:hover{
+   color: #27F3B5;
+   transition: all .3s;
+ }
+
  p.aloha {
        font-family: 'Pacifico', cursive;
        font-size: 130%;
