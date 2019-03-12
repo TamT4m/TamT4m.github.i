@@ -116,12 +116,12 @@ usamos el "-1"*/
 
 @media screen and (max-width: 760px) {
   body {
-    background-image: url(senamov.png);
+    background-image: url();
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #fff;
+    background-color: #0CE3B2;
     max-width: 100%;
   }
     .contenedor {
