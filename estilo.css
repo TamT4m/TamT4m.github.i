@@ -13,7 +13,7 @@
     box-sizing: border-box;
 }
 
-body {background: #0AAB5F url(sena.png);
+body {background: #FFFFFF url(sena.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -180,7 +180,7 @@ usamos el "-1"*/
   
    p.Titulo {
      font-family: "Indie Flower", cursive;
-     font-size: 800%;
+     font-size: 500%;
      text-align: center;
    }
   
