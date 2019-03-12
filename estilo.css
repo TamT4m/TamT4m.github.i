@@ -115,21 +115,25 @@ usamos el "-1"*/
 */
 
 @media screen and (max-width: 760px) {
-    body {
-      background-image: url(senamov.png);
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
-      background-color: #fff;
-    }
-    
+  body {
+    background-image: url(senamov.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+    max-width: 100%;
+  }
     .contenedor {
         grid-template-areas: "header header header"
                          "contenido contenido contenido"
                          "sidebar sidebar sidebar"
                          "widget-1 widget-1 widget-1"
                          "footer footer footer";
+    }
+
+    img {
+      max-width: 100%;
     }
 }
 
