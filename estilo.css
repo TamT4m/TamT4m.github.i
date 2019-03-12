@@ -13,7 +13,7 @@
     box-sizing: border-box;
 }
 
-body {background: white url(sena.png);
+body {background: #0AAB5F url(sena.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
